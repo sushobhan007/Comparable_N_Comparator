@@ -1,3 +1,5 @@
+package comparable;
+
 public class EmpDetailsUsingComparable implements Comparable<EmpDetailsUsingComparable> {
     private String empName;
     private String phone;
